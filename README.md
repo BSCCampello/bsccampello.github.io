@@ -6,5 +6,5 @@ O projeto de Pós-Doutorado, financiado pela FAPESP, está alinhado ao Plano de 
 - "Multicriteria decision support employing adaptive prediction in a tensor-based feature representation." [data link](https://github.com/BSCCampello/tensorpredictionsignals)
 -  "Critical Analysis of AI Indicators in Terms of Weighting and Aggregation Approaches." [data link](https://www.tortoisemedia.com/intelligence/global-ai/#rankings) and [data link](https://github.com/BSCCampello/ai_index_analysis)
 - "Measuring artificial intelligence development: A new approach based on MCDA 	methods exploiting temporal information" [data link](https://github.com/BSCCampello/ai_development_exploiting_temporal_information)
-- "UTASTAR-T: uma nova abordagem para análise de preferências baseada em características de séries temporais associadas a critérios."
-- "``Improving preference disaggregation in multicriteria decision making: incorporating time series analysis and a multi-objective approach"
+- "UTASTAR-T: uma nova abordagem para análise de preferências baseada em características de séries temporais associadas a critérios." - Os dados utilizados estão na tabela do artigo
+- "Improving preference disaggregation in multicriteria decision making: incorporating time series analysis and a multi-objective approach" - Os dados utilizados estão na tabela do artigo
